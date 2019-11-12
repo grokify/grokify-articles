@@ -20,6 +20,9 @@ To design a product that
 
 ## Release a usable product
 
+- [ ] Functional Requirements: Acceptance tests
+- [ ] Non-functional Requirements: Verification of tests
+- [ ] [Documentation](documentation.md): Acceptance tests
 
 ## Ensure adoption of product
 
