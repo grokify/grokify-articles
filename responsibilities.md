@@ -2,9 +2,9 @@
 
 ## Top level requirements
 
-1. Design a delightful product
-1. Release a usable product
-1. Ensure adoption of product
+1. Design a delightful product - specifications
+1. Release a usable product - acceptance testing
+1. Ensure adoption of product - metrics, monitoring
 
 ## Design a delightful product
 
