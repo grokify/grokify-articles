@@ -56,6 +56,8 @@ The next decision was between the 22" and 16" monitors. 16" was selected because
 
 The thought was to purchase the 16" first and if it was too small, exchange it.
 
+The other bonus with the Bowflex is that you can access the Peloton app with it, so you can use the same software with better, leaning hardware.
+
 The $199 set up was not included because John wanted to be able to review the installation process.
 
 ## Review
@@ -132,3 +134,5 @@ My NPS rating for this item is 10, after 4 rides including the test ride. A quic
 1. meet / exceeded all expectations
 
 I have a bike that leans like no other and one that finally allows me to stream media.
+
+It has further convinced me to consider getting a Bowflex treamdmill in the future.
