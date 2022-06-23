@@ -110,6 +110,7 @@ The review has a few pieces:
 1. Software upgrade - The first thing the software does is show you it is powered by Android and downloads updates with ZIP files for Hulu, Netflix and Disney+ which provided a good feeling.
 1. JRNY App - it's very nice and encouarges you to ride more. It takes the need to choose selections away so I can feel like it will progressively get harder as I get in better shape. It is very complimentary which is nice.
 1. Streaming is great. I watched some reruns and performed my 3rd and 4th rides back-to-back because I was watching Episode VI of Obi-Wan for the first time.
+1. Music is good too. I tried the music selections and it allowed my to find some great songs, but I still preferred watching shows.
 1. The 16" screen felt like it was the perfect size since my face is close enough to it that I don't need it to be huge and my eyes were not wandering around the screen to watch the shows.
 
 Overall, it is an incredible experience:
@@ -118,14 +119,16 @@ Overall, it is an incredible experience:
 1. leaning mode seemed a bit unstable when I was cycling hard out of the saddle but that may be expected so I'm okay to disable leaning when biking hard out of the saddle.
 1. streaming worked really well after logging in with my Disney+ account. Streaming is disabled when not exercising which is okay since the goal is to exercise and streaming services keep track of where you are watching so you can continue watching on another device.
 1. I could use my existing Shimano cycling shows with SPD cleats first using the clips and then clipping into the clipless side.
-
+1. I felt no need for a larger screen.
 
 ### Net Promoter Score
 
-My NPS rating for this item is 10. Overall, it has:
+My NPS rating for this item is 10, after 4 rides including the test ride. A quick summary of the bike is that it has:
 
 1. unique value propositions
 1. thoughtful design
 1. solid construction
 1. easy onboarding
-1. meets / exceeds all expectations
+1. meet / exceeded all expectations
+
+I have a bike that leans like no other and one that finally allows me to stream media.
