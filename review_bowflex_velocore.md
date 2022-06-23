@@ -34,11 +34,11 @@ When making a purchasing design, the Peloton was at the top of the list. THe fol
 
 1. [Peloton Bike+ at $2,495 (now on sale at $1,995)](https://www.onepeloton.com/bike-plus)
 1. [Peloton Bike at $1,495 (now on sale at $1,195)](https://www.onepeloton.com/bike)
-1. [Bowflex VeloCore Bike 22" screen](https://www.bowflex.com/bikes/velocore.html)
-1. [Bowflex VeloCore Bike 16" screen](https://www.bowflex.com/bikes/velocore.html)
+1. [Bowflex VeloCore Bike 22" screen at $2,199](https://www.bowflex.com/bikes/velocore.html)
+1. [Bowflex VeloCore Bike 16" screen at $1,499 sale (now back to $1,799)](https://www.bowflex.com/bikes/velocore.html)
 1. [Bowflex C7 Bike at $799 clearance (from $1,299)](https://www.bowflex.com/bikes/c7/100926.html)
 
-NordicTrack was looked at but not seriously considered since it didn't appear to have features that were lacking in the Peloton and Bowflex options.
+NordicTrack was looked at but not seriously considered since it didn't appear to have features that were lacking in the Peloton and Bowflex options. While some users have gotten some streaming services to work on the NordicTrack iFit tablet, it is not officially supported and NordicTrack has since locked users out of using the feature. Overall, this is a major negative relative to Bowflex which has official, built-in support for streaming servies, like modern televisions.
 
 ### The Decision - Kano Model and PNP
 
