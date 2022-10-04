@@ -1,6 +1,6 @@
 # First Experience with Crystal: Using OpenAPI Generator built API client SDKs 
 
-Last weekend I dived into Crystal for the first time, despite knowing about the language and being interested in it for a long time. In a weekend, I was successful using Crystal for the first time, [building my first shard](https://github.com/grokify/crystal-pingpong), [building an API client SDK](https://github.com/grokify/crystal-financialmodelingprep) [using OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator), and [calling the API client SDK](https://github.com/grokify/crystal-financialmodelingprep-example/blob/main/main.cr). Here's my a quick overview of my experience which was quite good overall. I wanted to write down my first impressions before they drift away.
+Last weekend I dived into [Crystal](https://crystal-lang.org/) for the first time, despite knowing about the language and being interested in it for a long time. In a weekend, I was successful using Crystal for the first time, [building my first shard](https://github.com/grokify/crystal-pingpong), [building an API client SDK](https://github.com/grokify/crystal-financialmodelingprep) [using OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator), and [calling the API client SDK](https://github.com/grokify/crystal-financialmodelingprep-example/blob/main/main.cr). Here's my a quick overview of my experience which was quite good overall. I wanted to write down my first impressions before they drift away.
 
 First off, I have a Ruby background from a while back and had published a few Gems, but had recently moved to Go for its static typing and ended up enjoying many other features.
 
@@ -85,4 +85,4 @@ Here are some final observations. My overall experience is that building the SDK
 3. lib folder: this reminds of me ofthe `node_modules` folder. I liked having this as it allowed me to debug/enhance dependencies quickly.
 4. Naming magic: I don't fully recall all the naming conventiosn of convering hypens or underscores to camelCase from Ruby yet yet, so to get around this, I switched to Go's convention of not haivng hypens/underscores in folder and package names.
 
-My closing thoughts are that it's easy enough to use and I really enjoyed using Ruby syntax again. I look forward to using more Crystal in the future.
+My closing thoughts are that it's easy enough to use and I really enjoyed using [Ruby syntax again](https://www.ruby-lang.org). I look forward to using [more Crystal in the future](https://crystal-lang.org/).
