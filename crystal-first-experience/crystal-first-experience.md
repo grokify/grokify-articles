@@ -1,6 +1,6 @@
 # First Experience with Crystal: Using OpenAPI Generator built API client SDKs 
 
-Last weekend I dived into Crystal for the first time, despite knowing about the language and being interested in it for a long time. Here's my a quick overview of my experience which was quite good overall. I wanted to write down my first impressions before they drift away.
+Last weekend I dived into Crystal for the first time, despite knowing about the language and being interested in it for a long time. In a weekend, I was successful using Crystal for the first time, [building my first shard](https://github.com/grokify/crystal-pingpong), [building an API client SDK](https://github.com/grokify/crystal-financialmodelingprep) [using OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator), and [calling the API client SDK](https://github.com/grokify/crystal-financialmodelingprep-example/blob/main/main.cr). Here's my a quick overview of my experience which was quite good overall. I wanted to write down my first impressions before they drift away.
 
 First off, I have a Ruby background from a while back and had published a few Gems, but had recently moved to Go for its static typing and ended up enjoying many other features.
 
